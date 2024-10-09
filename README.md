@@ -82,9 +82,8 @@ The project includes functionality to fetch the current trending songs from the 
 
 ## Insights
 
-The script provides insights into:
-
-- The top 5 artists and songs based on total plays.
-- The most played song and its artist.
-- The most popular day of the week for each artist based on play counts.
-- Yearly and monthly trends in music plays.
+![output.png](output/output.png)
+![output2.png](output/output2.png)
+![output3.png](output/output3.png)
+![output4.png](output/output4.png)
+![output5.png](output/output5.png)
